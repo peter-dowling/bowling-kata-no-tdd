@@ -10,7 +10,7 @@ I wrote this while watching Netflix at midnight and there maybe (probably) was b
 
 Observations from this pass
  * I was very hesitant to refactor once I actually got to testing, definitely had a weak overall view of where work was being done and I just wanted it to work
- * I came up with some pretty bad ideas that I thought would make nice shortcuts but added complexity: stiching the frames into a single string and hopping around in the array by skipping ahead in the loop
+ * I came up with some pretty bad ideas that I thought would make nice shortcuts but added complexity: stitching the frames into a single string and hopping around in the array by skipping ahead in the loop
  * I rely on an IDE more than I thought, once I got to the testing pass I really missed having a debugger
  * More objects would have been better, think frames as a container for rolls that are built when the initial string is parsed - not sure if I should allow myself to use that learning on my second pass
  
